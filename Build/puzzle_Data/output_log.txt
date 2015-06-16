@@ -1,0 +1,32 @@
+Initialize engine version: 5.0.0f4 (5b98b70ebeb9)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 5700 Series (ID=0x68be)
+    Vendor:   ATI
+    VRAM:     1014 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Projekty\Unity\Puzzle\Build\puzzle_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Projekty\Unity\Puzzle\Build\puzzle_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Projekty\Unity\Puzzle\Build\puzzle_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Projekty\Unity\Puzzle\Build\puzzle_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Projekty\Unity\Puzzle\Build\puzzle_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Projekty\Unity\Puzzle\Build\puzzle_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.071 seconds
+desktop: 1920x1080 60Hz; virtual: 3200x1080 at -1280,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: D:\Projekty\Unity\Puzzle\Build\puzzle_Data\Managed\System.Core.dll (this message is harmless)
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.396977 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 203.
+Total: 0.170133 ms (FindLiveObjects: 0.014666 ms CreateObjectMapping: 0.013200 ms MarkObjects: 0.129555 ms  DeleteObjects: 0.006355 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.591066 ms
+
+Unloading 67 unused Assets to reduce memory usage. Loaded Objects now: 156.
+Total: 0.297733 ms (FindLiveObjects: 0.054755 ms CreateObjectMapping: 0.013200 ms MarkObjects: 0.124177 ms  DeleteObjects: 0.098755 ms)
+
